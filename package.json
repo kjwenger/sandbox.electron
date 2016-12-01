@@ -1,0 +1,27 @@
+{
+  "name": "sandbox.electron",
+  "version": "0.0.1",
+  "description": "Sandbox for Atom Electron App",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kjwenger/sandbox.electron.git"
+  },
+  "keywords": [
+    "electron",
+    "atom"
+  ],
+  "author": "kjwenger@yahoo.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kjwenger/sandbox.electron/issues"
+  },
+  "homepage": "https://github.com/kjwenger/sandbox.electron#readme",
+  "devDependencies": {
+    "electron": "^1.4.10"
+  }
+}
